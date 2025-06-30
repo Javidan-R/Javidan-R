@@ -62,6 +62,16 @@
 
 ---
 
+## 🛠 Tech I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,shadcn" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,php,postman" height="40" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=swift,figma,git,vscode,github" height="40" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
