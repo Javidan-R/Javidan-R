@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Javidan Rajabli</h1>
 <h3 align="center">🚀 Full Stack Developer | React • Next.js • Tailwind • SwiftUI • TypeScript</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Frontend+Developer;SwiftUI+iOS+Learner;Node.js+%7C+Express+%7C+PostgreSQL;High-Performance+UI+Builder;Reusable+Code+Lover+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
